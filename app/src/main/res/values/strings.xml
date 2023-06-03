@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyFinance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="prompt_value">Digite o valor</string>
+
+    <string name="prompt_title">Digite o Título dessa movimentação</string>
+
+    <string name="action_sign_in_short">Login</string>
+    <string name="action_create_account">Criar uma conta</string>
+    <string name="action_back_login">Já tenho uma conta</string>
+    <string name="action_sign_up_short">Cadastrar</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Username Inválido</string>
+    <string name="invalid_password">Password deve ter mais de 5 caracteres</string>
+    <string name="login_failed">Login falhou</string>
+
+    <string name="blank_name">É necessário preencher o campo de Nome</string>
+    <string name="blank_email">É necessário preencher o campo de Email</string>
+    <string name="blank_password">É necessário preencher o campo de Senha</string>
+
+    <string name="blank_value">É necessário preencher o campo de Valor</string>
+    <string name="blank_title">É necessário preencher o campo do Título</string>
+    <string name="blank_type">É necessário preencher o campo de Tipo de Movimentação</string>
+    <string name="blank_date">É necessário escolher</string>
+
+    <string name="big_name">Seu nome deve ter no máximo 20 caracteres</string>
+    <string name="big_title">Seu título deve ter no máximo 20 caracteres</string>
+
+    <string name="big_value">Seu valor deve ter no máximo 20 caracteres</string>
+    <string name="small_name">Sua senha deve ter no mínimo 6 caracteres</string>
+
+    <string name="back_button">Voltar</string>
+    <string name="save_button">Salvar</string>
+    <string name="add_button">Adicionar</string>
+    <string name="logout_button">Logout</string>
+
+</resources>
